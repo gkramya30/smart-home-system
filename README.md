@@ -1,4 +1,4 @@
-Smart Home System Simulation
+Smart home System Simulation
 
 Overview
 
